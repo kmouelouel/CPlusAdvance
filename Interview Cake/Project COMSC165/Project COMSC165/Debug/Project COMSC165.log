@@ -1,0 +1,112 @@
+﻿Build started 5/17/2016 9:30:54 AM.
+     1>Project "C:\Users\CeLiA\Desktop\PORTFOLIO\Project COMSC165\Project COMSC165\Project COMSC165.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Project COMSC165.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Mainsource.cpp interfaceUser.cpp
+         interfaceUser.cpp
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\marriedfilingseparately.h(6): error C2236: unexpected 'class' 'MarriedFilingSeparately'. Did you forget a ';'?
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\marriedfilingseparately.h(6): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\marriedfilingseparately.h(6): error C2447: '{' : missing function header (old-style formal list?)
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\marriedfilingjointly.h(50): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\headofhousehold.h(64): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(7): error C2146: syntax error : missing ';' before identifier 'FullName'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(14): error C2061: syntax error : identifier 'string'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(13): error C2065: 'FullName' : undeclared identifier
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(16): error C2065: 'FullName' : undeclared identifier
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(16): error C2065: 'thename' : undeclared identifier
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(18): error C2146: syntax error : missing ';' before identifier 'MarriedFilingSeparatelyClass'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(29): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(70): error C2660: 'Person::SetFullename' : function does not take 1 arguments
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(137): error C3861: 'DeductionExemplecation': identifier not found
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(176): error C3861: 'DeductionExemplecation': identifier not found
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(188): error C2228: left of '.setWage' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(192): error C2228: left of '.setTaxwitheld' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(193): error C2228: left of '.getTaxwitheld' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(197): error C2228: left of '.setadjustAmount' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(202): error C2228: left of '.getAdjoustedGrossIncome' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(205): error C2228: left of '.getAdjoustedGrossIncome' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(205): error C3861: 'DeductionExemplecation': identifier not found
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(209): error C2228: left of '.GetMarriedSepratDeductionMinArry' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(209): error C2228: left of '.GetMarriedSepratDeductionMaxArry' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(210): error C2228: left of '.GetMarriedSepratDeductionMaxArry' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(235): error C3861: 'DeductionExemplecation': identifier not found
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(273): error C2228: left of '.SetNbreKids' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(275): error C2228: left of '.getDeduction' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(276): error C2228: left of '.getExcemption' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(277): error C2228: left of '.getDeduction' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(277): error C2228: left of '.getExcemption' must have class/struct/union
+                 type is 'int'
+         Mainsource.cpp
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\marriedfilingseparately.h(6): error C2236: unexpected 'class' 'MarriedFilingSeparately'. Did you forget a ';'?
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\marriedfilingseparately.h(6): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\marriedfilingseparately.h(6): error C2447: '{' : missing function header (old-style formal list?)
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\marriedfilingjointly.h(50): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\headofhousehold.h(64): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(7): error C2146: syntax error : missing ';' before identifier 'FullName'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(14): error C2061: syntax error : identifier 'string'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(13): error C2065: 'FullName' : undeclared identifier
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(16): error C2065: 'FullName' : undeclared identifier
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\person.h(16): error C2065: 'thename' : undeclared identifier
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(18): error C2146: syntax error : missing ';' before identifier 'MarriedFilingSeparatelyClass'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(29): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(70): error C2660: 'Person::SetFullename' : function does not take 1 arguments
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(137): error C3861: 'DeductionExemplecation': identifier not found
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(176): error C3861: 'DeductionExemplecation': identifier not found
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(188): error C2228: left of '.setWage' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(192): error C2228: left of '.setTaxwitheld' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(193): error C2228: left of '.getTaxwitheld' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(197): error C2228: left of '.setadjustAmount' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(202): error C2228: left of '.getAdjoustedGrossIncome' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(205): error C2228: left of '.getAdjoustedGrossIncome' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(205): error C3861: 'DeductionExemplecation': identifier not found
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(209): error C2228: left of '.GetMarriedSepratDeductionMinArry' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(209): error C2228: left of '.GetMarriedSepratDeductionMaxArry' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(210): error C2228: left of '.GetMarriedSepratDeductionMaxArry' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(235): error C3861: 'DeductionExemplecation': identifier not found
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(273): error C2228: left of '.SetNbreKids' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(275): error C2228: left of '.getDeduction' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(276): error C2228: left of '.getExcemption' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(277): error C2228: left of '.getDeduction' must have class/struct/union
+                 type is 'int'
+     1>c:\users\celia\desktop\portfolio\project comsc165\project comsc165\interfaceuser.cpp(277): error C2228: left of '.getExcemption' must have class/struct/union
+                 type is 'int'
+         Generating Code...
+     1>Done Building Project "C:\Users\CeLiA\Desktop\PORTFOLIO\Project COMSC165\Project COMSC165\Project COMSC165.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.69

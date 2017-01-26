@@ -1,0 +1,6 @@
+#!/bin/bash 
+if [[ $1 == *[A-Za-z]* ]]   # test if first parameter contains a letter
+then echo alpha   # if so print alpha
+else
+echo non-alpha   # if not print non-alpha
+fi

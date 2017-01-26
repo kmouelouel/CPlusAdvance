@@ -1,0 +1,28 @@
+----------------------------------------------------------------
+the USA Basic Federal Tax Formula 2015
+----------------------------------------------------------------
+the user name  is :kahina
+The status is: 1
+Your gross income(ie W2):$40000
+Your total Federal withholding :$4500
+Less Adjustment :$0
+**********************************************************
+Adjusted Gross Income (AGI); $40000
+**********************************************************
+ Less Standard Deduction : $6300
+ Less Personal Exemption : $4000
+**********************************************************
+Taxtable Income $29700
+**********************************************************
+Your Taxtable Income is between $9226 and $37450
+ the tax rate %15
+ the over amount $922.5
+**********************************************************
+Total Tax :$3993.75
+**********************************************************
+Less  Tax credit $0
+Less Tax payment withholding $4500
+Add Penalties $0
+**********************************************************
+It is a Refund of $506.25 because the total is :$-506.25
+**********************************************************

@@ -1,0 +1,7 @@
+ # comment in first column
+ Final=$(date -d "2016-05-24 16:00" "+%j")
+ while true
+ do
+ Today=$(date "+%j")
+ Days=$((Final - Today))
+ if (( Days >= 14 ))

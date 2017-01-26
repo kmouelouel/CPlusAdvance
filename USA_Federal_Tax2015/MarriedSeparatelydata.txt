@@ -1,0 +1,29 @@
+----------------------------------------------------------------
+the USA Basic Federal Tax Formula 2015
+----------------------------------------------------------------
+the user name  is :Assia
+The status is: 3
+Your gross income(ie W2):$40000
+ Your total Federal withholding: $4500
+**********************************************************
+Adjusted Gross Income (AGI) $40000
+**********************************************************
+the Number of children :2
+ Less Standard Deduction : $6300
+ Less Personal Exemption : $4000
+**********************************************************
+Taxtable Income $17700
+**********************************************************
+Your Taxtable Income is between $9226 and $37450
+ the tax rate %15
+ the over amount $922.5
+**********************************************************
+Total Tax :$2193.75
+**********************************************************
+Tax Credit for each child is :$1000
+Less  Tax credit $2000
+Less Tax payment withholding $4500
+Add Penalties $0
+**********************************************************
+It is a Refund of $4306.25 because the total is :$-4306.25
+**********************************************************

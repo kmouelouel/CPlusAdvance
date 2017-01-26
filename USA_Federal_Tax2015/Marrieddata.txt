@@ -1,0 +1,31 @@
+----------------------------------------------------------------
+the USA Basic Federal Tax Formula 2015
+----------------------------------------------------------------
+the user name  is :warda
+The status is: 2
+Your gross income(ie W2):$32000
+ Your total Federal withholding: $4800
+Spouse's gross Income  :$18000
+Your spouse's total Federal withholding :$2300
+**********************************************************
+Adjusted Gross Income (AGI) $50000
+**********************************************************
+the Number of children :0
+ Less Standard Deduction : $12600
+ Less Personal Exemption : $4000
+**********************************************************
+Taxtable Income $29400
+**********************************************************
+Your Taxtable Income is between $18451 and $74900
+ the tax rate %15
+ the over amount $1845
+**********************************************************
+Total Tax :$3487.5
+**********************************************************
+Tax Credit for each child is :$0
+Less  Tax credit $0
+Less Tax payment withholding $7100
+Add Penalties $0
+**********************************************************
+It is a Refund of $3612.5 because the total is :$-3612.5
+**********************************************************

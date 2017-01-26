@@ -1,0 +1,28 @@
+----------------------------------------------------------------
+the USA Basic Federal Tax Formula 2016
+the user name  is :kahina Mouelouel
+The status is: 1
+The wages :$40000
+Your total Federal withholding :$4500
+  Less Adjustment :$0
+**********************************************************
+Adjusted Gross Income (AGI); $40000
+**********************************************************
+ Less Standard Deduction : $6300
+ Less Personal Exemption : $4050
+**********************************************************
+Taxtable Income $29650
+**********************************************************
+your Total Taxtable is between $9251 and $37500
+ the tax rate %15
+ the over amount $922.5
+**********************************************************
+Total Tax :$3982.5
+**********************************************************
+Less Tax credit $0
+Less Tax payment withholding $4500
+Add Penalties $0
+**********************************************************
+the total is :$-517.5, so it is Refund
+ 
+**********************************************************

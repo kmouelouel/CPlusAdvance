@@ -1,0 +1,29 @@
+﻿Build started 3/20/2016 10:24:34 PM.
+     1>Project "C:\Users\CeLiA\Desktop\PORTFOLIO\duplicationName\duplicationName\duplicationName.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\CeLiA\Desktop\PORTFOLIO\duplicationName\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\duplicationName.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt duplication.cpp
+         duplication.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\duplicationName.exe.embed.manifest.res" Debug\duplicationName_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\CeLiA\Desktop\PORTFOLIO\duplicationName\Debug\duplicationName.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\duplicationName.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\CeLiA\Desktop\PORTFOLIO\duplicationName\Debug\duplicationName.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\CeLiA\Desktop\PORTFOLIO\duplicationName\Debug\duplicationName.lib" /MACHINE:X86 Debug\duplicationName.exe.embed.manifest.res
+         Debug\duplication.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\duplicationName.exe.embed.manifest" /manifest Debug\duplicationName.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\duplicationName.exe.embed.manifest.res" Debug\duplicationName_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\CeLiA\Desktop\PORTFOLIO\duplicationName\Debug\duplicationName.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\duplicationName.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\CeLiA\Desktop\PORTFOLIO\duplicationName\Debug\duplicationName.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\CeLiA\Desktop\PORTFOLIO\duplicationName\Debug\duplicationName.lib" /MACHINE:X86 Debug\duplicationName.exe.embed.manifest.res
+         Debug\duplication.obj
+         duplicationName.vcxproj -> C:\Users\CeLiA\Desktop\PORTFOLIO\duplicationName\Debug\duplicationName.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\duplicationName.unsuccessfulbuild".
+         Touching "Debug\duplicationName.lastbuildstate".
+     1>Done Building Project "C:\Users\CeLiA\Desktop\PORTFOLIO\duplicationName\duplicationName\duplicationName.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.27

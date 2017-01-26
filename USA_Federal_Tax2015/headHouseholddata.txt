@@ -1,0 +1,30 @@
+----------------------------------------------------------------
+the USA Basic Federal Tax Formula 2015
+----------------------------------------------------------------
+the user name  is :alex
+The status is: 4
+The wages :$27000
+Your total Federal withholding :$5400
+  Less Adjustment :$0
+**********************************************************
+Adjusted Gross Income (AGI); $27000
+**********************************************************
+the Number of children :2
+ Less Standard Deduction : $9250
+ Less Personal Exemption : $4000
+**********************************************************
+Taxtable Income $1750
+**********************************************************
+Your Taxtable Income is between $0 and $13150
+ the tax rate %10
+ the over amount $0
+**********************************************************
+Total Tax :$-1140
+**********************************************************
+Tax Credit for each child is :$800
+Less  Tax credit $1600
+Less Tax payment withholding $5400
+Add Penalties $0
+**********************************************************
+It is a Refund of $8140 because the total is :$-8140
+**********************************************************

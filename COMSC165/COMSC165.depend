@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456713369 source:c:\users\celia\desktop\project\comsc165\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

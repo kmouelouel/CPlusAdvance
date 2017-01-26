@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Templates">
+      <UniqueIdentifier>{d460d1ff-9fcf-44dc-b239-48b8cf06d711}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Templates\Lab5-stack">
+      <UniqueIdentifier>{f3decc7c-ccd2-426b-ba25-3f6c46dcf929}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\supermarketSimulation">
+      <UniqueIdentifier>{b0a355a6-da4e-4f2c-92fe-d97e830dfc31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lab6Simulation">
+      <UniqueIdentifier>{9315edc7-23ce-4e24-a98c-14ae5a7254ec}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="mainstack.cpp">
+      <Filter>Source Files\Templates\Lab5-stack</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateClassStack.cpp">
+      <Filter>Source Files\Templates\Lab5-stack</Filter>
+    </ClCompile>
+    <ClCompile Include="source.cpp">
+      <Filter>Source Files\supermarketSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Customer.cpp">
+      <Filter>Source Files\supermarketSimulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Supermarketsimulation.cpp">
+      <Filter>Source Files\Lab6Simulation</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stackLibrary.h">
+      <Filter>Source Files\Templates\Lab5-stack</Filter>
+    </ClInclude>
+    <ClInclude Include="Customer.h">
+      <Filter>Source Files\supermarketSimulation</Filter>
+    </ClInclude>
+    <ClInclude Include="Queuelib.h">
+      <Filter>Source Files\supermarketSimulation</Filter>
+    </ClInclude>
+    <ClInclude Include="Customerlib.h">
+      <Filter>Source Files\Lab6Simulation</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
